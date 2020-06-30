@@ -1,3 +1,14 @@
-.gitignore
+Thumbs.db
+.DS_Store
+.gradle
+build/
+target/
+out/
 .idea
-out
+*.iml
+*.ipr
+*.iws
+.project
+.settings
+.classpath
+
